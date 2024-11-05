@@ -56,7 +56,7 @@ I'm a PhD student in Artificial Intelligence of Things (AIoT) at Academia Sinica
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenesy&show_icons=true&theme=radical)
 
 ---
 
